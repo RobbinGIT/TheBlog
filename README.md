@@ -49,3 +49,7 @@ To get the code..
 Open the application on your browser `127.0.0.1:5000`.
 
 ## Known Bugs
+There were no bugs. If found any please contact 
+[robbingithimbo@gmail.com]
+(robbin.githimbo@student.moringaschool.com)
+
