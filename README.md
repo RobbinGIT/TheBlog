@@ -62,3 +62,5 @@ robbin.githimbo@student.moringaschool.com
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+Copyright © 2021  [Robbin Mwangi](https://github.com/RobbinGIT)
