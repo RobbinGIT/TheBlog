@@ -53,3 +53,12 @@ There were no bugs. If found any please contact
 [robbingithimbo@gmail.com]
 (robbin.githimbo@student.moringaschool.com)
 
+## Support and Further contact details
+
+For queries you can contact me through
+
+robbin.githimbo@student.moringaschool.com
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
