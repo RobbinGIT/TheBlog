@@ -9,11 +9,11 @@ class Config:
     SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:access@localhost/mrblog'
 
     # email configutions
-    # MAIL_SERVER = 'smtp.googlemail.com'
-    # MAIL_PORT = 587
-    # MAIL_USE_TLS =True
-    # MAIL_USERNAME='robbin.githimbo@student.moringaschool.com'
-    # MAIL_PASSWORD='Shizzle27!'
+    MAIL_SERVER = 'smtp.googlemail.com'
+    MAIL_PORT = 587
+    MAIL_USE_TLS =True
+    MAIL_USERNAME='robbin.githimbo@student.moringaschool.com'
+    MAIL_PASSWORD='Shizzle27!'
 
     SIMPLEMDE_JS_IIFE = True
     SIMPLEMDE_USE_CDN = True
