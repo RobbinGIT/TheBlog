@@ -1,0 +1,19 @@
+body {
+    background: black;
+    box-sizing: border-box;
+    padding-bottom: 1%;
+    position: relative;
+    top: 0;
+    bottom: 0;
+   
+}
+
+.panel-heading {
+    background-color: gainsboro;
+}
+
+.navbar {
+    background-color: #050c2e;
+}
+
+
